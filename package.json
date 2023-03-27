@@ -1,5 +1,5 @@
 {
-  "name": "custom-block-template",
+  "name": "asciidoctor-block",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -8,6 +8,7 @@
     "build": "blocks build"
   },
   "dependencies": {
+    "@asciidoctor/core": "3.0.0-alpha.4",
     "@githubnext/blocks": "^2.3.5",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"

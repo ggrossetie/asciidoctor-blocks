@@ -1,0 +1,3 @@
+== Trademarks
+
+AsciiDoc(R) and AsciiDoc Language(TM) are trademarks of the Eclipse Foundation, Inc.

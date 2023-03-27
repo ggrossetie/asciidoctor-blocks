@@ -1,0 +1,13 @@
+= README
+
+This is an AsciiDoc document using includes!
+
+NOTE: This is pretty cool, right?
+
+.index.tsx
+[source,tsx]
+----
+include::blocks/index.tsx[]
+----
+
+include::trademarks.adoc[]
